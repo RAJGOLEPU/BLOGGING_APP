@@ -10,14 +10,14 @@ posts = [
     },
     {
         'author': 'Raj',
-        'title' : 'Blog Post 1',
-        'content' : 'First Post Content',
+        'title' : 'Blog Post 2',
+        'content' : 'Second Post Content',
         'date_posted' : 'oct-07-2024',
     },
     {
         'author': 'Raj',
-        'title' : 'Blog Post 1',
-        'content' : 'First Post Content',
+        'title' : 'Blog Post 3',
+        'content' : 'Third Post Content',
         'date_posted' : 'oct-07-2024',
     }
 ]
